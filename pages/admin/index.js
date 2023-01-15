@@ -1,5 +1,5 @@
 export default function AdminPostPage({}){
     return (
-        <main></main>
+        <main>Admin Posts</main>
     )
 }
